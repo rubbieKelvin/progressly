@@ -1,3 +1,3 @@
 <template>
-  <NuxtPage />
+  <div>Signup</div>
 </template>
